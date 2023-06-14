@@ -5,6 +5,7 @@ body{
 .hed{
     color: #A27B5C;
     font-weight: bolder;
+    
 }
 
 header{
@@ -17,7 +18,9 @@ header{
     font-size: 70px;
     font-family: 'Rubik', sans-serif;
 }
-
+.nav-item{
+    font-family: 'Rubik', sans-serif;
+}
 .sens{
     color: #3F4E4F;
     font-size: 35px;
@@ -94,7 +97,9 @@ img{
     min-height: 15vh;
     font-size: 20px;
 }    
-
+.trololo{
+  max-width: 500px;
+}
 .cl-cl{
     color:#DCD7C9;
 }
