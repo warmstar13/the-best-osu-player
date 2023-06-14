@@ -30,6 +30,15 @@ header{
     font-family: 'Rubik', sans-serif;
 }
 
+.list-friend > .list-group-item{
+    background-color: #DCD7C9;
+    color: #A27B5C;
+    font-size: 30px;
+    font-weight: bold;
+    border-color:#3F4E4F;
+    text-align: center;
+}
+
 .num2{
     background-color:#DCD7C9;
 }
@@ -58,7 +67,13 @@ img{
 .carousel-inner > .carousel-item > img {
     object-fit: cover;
   }
-
+.opis2{
+    font-family: 'Rubik', sans-serif;
+    color: #DCD7C9;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
   .opis1{
     color:#DCD7C9;
     text-align: center;
